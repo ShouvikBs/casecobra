@@ -824,6 +824,7 @@ __metadata:
     clsx: ^2.1.1
     eslint: ^8
     eslint-config-next: 14.2.3
+    lucide-react: ^0.390.0
     next: 14.2.3
     postcss: ^8
     react: ^18
@@ -2524,6 +2525,15 @@ __metadata:
   version: 10.2.2
   resolution: "lru-cache@npm:10.2.2"
   checksum: 98e8fc93691c546f719a76103ef2bee5a3ac823955c755a47641ec41f8c7fafa1baeaba466937cc1cbfa9cfd47e03536d10e2db3158a64ad91ff3a58a32c893e
+  languageName: node
+  linkType: hard
+
+"lucide-react@npm:^0.390.0":
+  version: 0.390.0
+  resolution: "lucide-react@npm:0.390.0"
+  peerDependencies:
+    react: ^16.5.1 || ^17.0.0 || ^18.0.0
+  checksum: 77ad12f60293ab16f5d2a6fc0326474ac0c5b4a0dcd7778096e4348a0e6da0196e9f72604780eb7fad33b76bef1d222095baf71a24d83258add3bdaceda3f5fa
   languageName: node
   linkType: hard
 
